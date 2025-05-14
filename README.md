@@ -97,7 +97,7 @@ python cam4.py
 ## نمونه تصویر خروجی
 
 <div align="center">
-  <img src="(https://github.com/Mohammadhosseinmoeinzadeh/Real-Time-License-Plate-Recognition-Using-YOLOv8-and-RTSP/blob/main/plate_1745478787.jpg)" width="600"/>
+  <img src="https://github.com/Mohammadhosseinmoeinzadeh/Real-Time-License-Plate-Recognition-Using-YOLOv8-and-RTSP/blob/main/plate_1745478787.jpg" width="600"/>
 </div>
 
 ---
