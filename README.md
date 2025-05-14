@@ -91,7 +91,13 @@ model_path = "<YOUR_MODEL_ADDRESS>"
 ```bash
 python cam4.py
 ```
+---
+## تصویر محیط برنامه 
+<div align="center">
+  <img src="https://github.com/Mohammadhosseinmoeinzadeh/Real-Time-License-Plate-Recognition-Using-YOLOv8-and-RTSP/blob/main/app.png" width="600"/>
+</div>
 
+---
 ---
 
 ## نمونه تصویر خروجی
